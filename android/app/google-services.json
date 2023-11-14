@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90949414530",
+    "project_id": "proyectosistemasi",
+    "storage_bucket": "proyectosistemasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90949414530:android:a4742c65d85d22cc264e9b",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_sistemas_s45"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1R6X77UhkYSpt-BvTsriOiKKRt2iU_fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
